@@ -1,0 +1,12 @@
+[cxx]
+  default_platform = iphonesimulator-x86_64
+
+[swift]
+  version = 5
+
+[apple]
+  iphonesimulator_target_sdk_version = 14.0
+  iphoneos_target_sdk_version = 14.0
+
+[project]
+  ide = xcode
